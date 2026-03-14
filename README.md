@@ -41,10 +41,12 @@ Developed by: RegisterNumber:*/
 **RTL realization**
 
 **Output:**
+![image](https://github.com/VGSAIRAIMA/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/deexp02.png)
 
 **RTL**
 
 **Timing Diagram**
+![image](https://github.com/VGSAIRAIMA/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/exp021.png)
 
 **Result:**
 
